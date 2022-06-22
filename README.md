@@ -1,1 +1,2 @@
-ALX devops
+#!/bin/bash
+ALX DevOps
